@@ -1,0 +1,2 @@
+# Inicializador
+ script iniciar serviço 
